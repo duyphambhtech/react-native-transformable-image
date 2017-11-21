@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ldn0x7dc/react-native-transformable-image#readme",
   "dependencies": {
-    "react-native-view-transformer": "https://github.com/duyphambhtech/react-native-view-transformer.git"
+    "prop-types": "^15.0",
+    "react-native-view-transformer": "https://github.com/duyphambhtech/react-native-view-transformer.git#1e2676283610cd5d5a20ccc846e32b05e9066d8c"
   }
 }
